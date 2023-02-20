@@ -13,6 +13,8 @@
 [3.0 System Architecture](#system-architecture)
 <br>
 [4.0 Online Platform and Software used](#Online-Platform-and-Software-used)
+<br>
+[5.0 Built and train model using Edge Impulse](#Built-and-train)
 
 <a name="Previous-works"/></a>
 ## 1.0 Previous works
@@ -39,5 +41,14 @@
  
  - STM32Cube.AI \- used to convert pre-trained neural networks into optimized code for STM32 microcontrollers
 
+
+<a name="Built-and-train"/></a>
+## 4.0 Built and train model using Edge Impulse
+
+1. Download the vegetable image from the Kaggle website for training purposes.
+   https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download
+   
+2. After creating a new project in Edge Impulse, click on upload data aquisition -> upload data to upload the training images. Click on the choose file and select 100 image we have dataset we downloaded before. Select the automatically split into training and testing to let the system split the images into 2 category of training and testing inages. Select label and enter the image class type that we uploaded sich as "beans". Repeat the step until all the type of vegetable that we wanted to classify is uplodaed.
+   ![image](https://user-images.githubusercontent.com/118173890/220202714-969842c8-cc43-4d5c-9ca0-40b48646ec69.png)
 
 
