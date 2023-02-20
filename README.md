@@ -45,7 +45,7 @@
 <a name="Built-and-train"/></a>
 ## 4.0 Built and train model using Edge Impulse
 
-1. Download the vegetable image from the Kaggle website for training purposes.
+1. Download the vegetable image from the Kaggle website for training and testing purposes.
    https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download
    
 2. After creating a new project in Edge Impulse, click on upload data aquisition -> upload data to upload the training images. Click on the choose file and select 100 image from the dataset we downloaded before. Select the automatically split into training and testing to let the system split the images into 2 category of training and testing images. Select label and enter the image class type that we uploaded such as "beans". Upload the data after make sure everything is correct. Repeat the step until all the type of vegetable that we wanted to classify is uplodaed which in this case is another 2 class of "broccoli and cabbage".
