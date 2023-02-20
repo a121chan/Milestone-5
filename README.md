@@ -12,7 +12,7 @@
 <br>
 [3.0 System Architecture](#system-architecture)
 <br>
-[4.0 Online Platform and Software used](#algorithm)
+[4.0 Online Platform and Software used](#Online Platform and Software used)
 
 <a name="Previous-works"/></a>
 ## 1.0 Previous works
@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/118173890/220200205-cc964e4b-51b1-4306-b3ae-a3d52933ead0.png)
 
 
-<a name="algorithm"/></a>
+<a name="Online Platform and Software used"/></a>
 ## 4.0 Online Platform and Software used
 
  - STM32CubeIDE \- advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32
