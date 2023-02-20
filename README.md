@@ -1,5 +1,5 @@
-# Milestone-5
-Vegetable classification using STM32
+# Milestone-5 "Vegetable classification using STM32"
+
 
 
 
