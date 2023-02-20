@@ -59,3 +59,7 @@
    Afterwards, it click the genetate feature to generate the feature of the 3 different types of vegetabel image we uploaded.
    ![image](https://user-images.githubusercontent.com/118173890/220205084-6b3579e3-73e5-48c2-a131-8e0e58fba992.png)
 
+5. Go to the next section "transfer learning" under the same impulse design section, change the nural network setting to 100 training cycle, 0.0005 learn rate and 60% of variation set size. We need to make sure the trainign cycle is high enough and the learn rate is low to make sure we can get get to the bottom of the loss function and having a much higher accuracy as possible. Then click on start training to start training the model. After finish training, we can observe the accuracy and loss of our model from the training result. 
+   ![image](https://user-images.githubusercontent.com/118173890/220205644-89dc05d0-a876-4dea-a0ba-e38a3aae12c0.png)
+
+6. After finish training
