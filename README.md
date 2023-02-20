@@ -28,7 +28,8 @@ Vegetable classification using STM32
 
 <a name="system-architecture"/></a>
 ## 3.0 System Architecture
-![image](https://user-images.githubusercontent.com/118992897/208306540-452c343e-ef65-4bf8-8bc6-0605ac401598.png)
+![image](https://user-images.githubusercontent.com/118173890/220200205-cc964e4b-51b1-4306-b3ae-a3d52933ead0.png)
+
 
 <a name="algorithm"/></a>
 ## 4.0 Algorithm
