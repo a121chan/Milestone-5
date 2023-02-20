@@ -69,6 +69,7 @@
 ![image](https://user-images.githubusercontent.com/118173890/220210607-a5a6d9d1-0c93-4237-b925-8c18db40e59b.png)
 
 Scroll to the bottom and ckick on analyse optimization to optimize the code. After it finish blick build to built the model for deployment in the STM32 later.
+
   ![image](https://user-images.githubusercontent.com/118173890/220210496-87d790eb-1a54-4bbf-b151-e2137614cda0.png)
 
 
