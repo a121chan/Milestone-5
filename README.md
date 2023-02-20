@@ -62,6 +62,13 @@
 5. Go to the next section "transfer learning" under the same impulse design section, change the nural network setting to 100 training cycle, 0.0005 learn rate and 60% of variation set size. We need to make sure the trainign cycle is high enough and the learn rate is low to make sure we can get get to the bottom of the loss function and having a much higher accuracy as possible. Then click on start training to start training the model. After finish training, we can observe the accuracy and loss of our model from the training result. 
   ![image](https://user-images.githubusercontent.com/118173890/220206195-1cf6378b-993a-4543-8107-b977e43bc9c1.png)
 
-6. After finish training we can start test our model by using the testing image that has not been used by the model using training stage.
-![image](https://user-images.githubusercontent.com/118173890/220206408-4ee4c0e7-10a0-46a4-8797-53de9024a8d2.png)
+6. After finish training we can start test our model by using the testing image that has not been used by the model using training stage. The test result will show at the model testing output.
+![image](https://user-images.githubusercontent.com/118173890/220210270-da4445fb-c85c-440e-b615-1a0825969565.png)
+
+6. Click on deployment sectiona, then click on Cube.Mx CMSIS-PACK to create the lobrary of the device that we want to deploy into. 
+![image](https://user-images.githubusercontent.com/118173890/220210607-a5a6d9d1-0c93-4237-b925-8c18db40e59b.png)
+
+Scroll to the bottom and ckick on analyse optimization to optimize the code. After it finish blick build to built the model for deployment in the STM32 later.
+  ![image](https://user-images.githubusercontent.com/118173890/220210496-87d790eb-1a54-4bbf-b151-e2137614cda0.png)
+
 
