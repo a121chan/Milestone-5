@@ -1,12 +1,11 @@
 # Milestone-5 "Vegetable classification using STM32"
 
-
+#Group Members
+1. Alvin Chan Chin Khai
+2. Beh Jun Long
 
 
 #### Table of contents
-
-<br>
-
 [1.0 Previous works](#Previous-works)
 <br>
 [2.0 Use Cases](#Use-Cases)
