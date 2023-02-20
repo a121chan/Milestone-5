@@ -56,5 +56,6 @@
 
 4. Click on image under impulse design section. Change the color depth to greyscale and save the parameter. 
    ![image](https://user-images.githubusercontent.com/118173890/220204655-ab0fb9d1-6a30-43f0-bc83-9c59537e4520.png)
-
+   Afterwards, it click the genetate feature to generate the feature of the 3 different types of vegetabel image we uploaded.
+   ![image](https://user-images.githubusercontent.com/118173890/220205084-6b3579e3-73e5-48c2-a131-8e0e58fba992.png)
 
