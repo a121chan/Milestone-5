@@ -26,7 +26,7 @@
  - Helps to improve supermarket grocery self-checkouts.
 
 <a name="system-architecture"/></a>
-## 3.0 System Architecture
+## 3.0 Online Platform and Software used
 ![image](https://user-images.githubusercontent.com/118173890/220200205-cc964e4b-51b1-4306-b3ae-a3d52933ead0.png)
 
 
