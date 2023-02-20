@@ -12,7 +12,7 @@
 <br>
 [3.0 System Architecture](#system-architecture)
 <br>
-[4.0 Algorithm](#algorithm)
+[4.0 Online Platform and Software used](#algorithm)
 
 <a name="Previous-works"/></a>
 ## 1.0 Previous works
